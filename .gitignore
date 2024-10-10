@@ -1,0 +1,9 @@
+*.env
+*.onnx
+*.pt
+*.pth
+*.tar
+*.pyc
+*.engine
+.idea/
+*/__pycache__
