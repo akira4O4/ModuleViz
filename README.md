@@ -4,4 +4,5 @@ Pytorch Module visualization
 ---
 
 ## Support Modules
-- Conv_BN_Act
+- [Conv](https://github.com/akira4O4/ModuleViz/releases/tag/v1.0.0)
+
